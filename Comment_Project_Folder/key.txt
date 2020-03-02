@@ -1,0 +1,9 @@
+This semester, we completed units on looping, conditionals, functions, and data structures including lists, sets, and dictionaries. In addition, we completed a statistics-related unit on simulations and plotting. The projects this semester included simulating the game of craps and completing a larger partner project on simulating customer service at a bank.
+
+Steven, I am concerned with your progress this semester. Your average problem set score was an extremely concerning 0% as you never completed (or even partially completed) a problem set. Your chapter test average was an extremely concerning 0% as you never completed (or even partially completed) a chapter test. 
+
+On your bank customer service simulation partner project, you received an extremely concerning 0% as you never completed (or even partially completed) your bank customer service project. 
+
+Steven, your final exam score was 0%, showing a complete lack of understanding of how to create, use and take advantage of functions, which is a critical and powerful learning goal for this class. Attending the final could have been helpful for you, Steven. 
+
+Your grade for the semester is an F. I hope you take to heart the suggestions I've given and try your best to improve as a computer scientist next semester.
